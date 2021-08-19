@@ -137,5 +137,5 @@ STATICFILES_DIRS = [
     BASE_DIR / "static"
 ]
 STATIC_ROOT = [
-    PROJECT_DIR / 'static'
+    BASE_DIR / 'static'
 ]
