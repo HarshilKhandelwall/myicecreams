@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-t3b!2q(mq&@3)q9a54hl#-gasgpho&^&r-d0l@-zhr_t=e)l-b
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['www.myicecreams.ml', '127.0.0.1']
+ALLOWED_HOSTS = []
 
 
 # Application definition
